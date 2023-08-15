@@ -1,5 +1,5 @@
 <?php
-$connection = mysqli_connect('localhost', 'root','root');
+$connection = mysqli_connect('localhost', 'root','Rathin@1');
 // $connection = mysqli_connect('sql212.epizy.com', 'epiz_32082552','gYrhBIggRL');
 if ($connection){
     echo "OK";

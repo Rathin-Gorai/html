@@ -1,6 +1,6 @@
 <?php
-// $connection = mysqli_connect('localhost', 'root','root');
-$connection = mysqli_connect('sql200.infinityfree.com', 'epiz_34114231','3delLffhRSo');
+$connection = mysqli_connect('localhost', 'root','Rathin@1');
+// $connection = mysqli_connect('sql200.infinityfree.com', 'epiz_34114231','3delLffhRSo');
 if ($connection){
     echo "OK";
 }

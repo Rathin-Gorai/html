@@ -13,7 +13,7 @@
                 Jamshedpur, <br>
                 Jharkhand, 832304, India<br><br>
                 <strong>Phone:</strong> +91 62005 09206, +91 88733 08359<br>
-                <strong>Email:</strong> rthnkg@gmail.com<br>
+                <strong>Email:</strong> business.projects4you@gmail.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
