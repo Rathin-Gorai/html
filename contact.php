@@ -8,7 +8,7 @@ else{
     // echo "Error! Not Connect";
 }
 
-mysqli_select_db($connection, 'epiz_34114231_nexon');
+mysqli_select_db($connection, 'orders');
 // mysqli_select_db($connection, 'nexon');
 
 $name = $_POST['name'];

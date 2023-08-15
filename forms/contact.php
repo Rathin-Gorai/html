@@ -8,7 +8,7 @@ else{
     // echo "Error! Not Connect";
 }
 
-mysqli_select_db($connection, 'nexon');
+mysqli_select_db($connection, 'orders');
 
 $name = $_POST['name'];
 $email = $_POST['email'];
